@@ -12,5 +12,9 @@ EditorBuildSettings:
     path: Assets/scenes/_levels/level_Island.unity
     guid: e49366a21c3d84388bfb33016c0e77e2
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 385548b4e205c754985eb041f0f03bc9,
+      type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 3f119a19757f84dac85ee298b9dd65d3,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cab1691cdf9f5d24f981ed9837e0c8dd,
       type: 2}
