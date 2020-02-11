@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/scenes/main_menu.unity
-    guid: c817c1b09586c49e5b4a849ce1cf119b
-  - enabled: 1
-    path: Assets/scenes/_levels/level_Island.unity
-    guid: e49366a21c3d84388bfb33016c0e77e2
+    path: Assets/scenes/vr_island.unity
+    guid: 806ab68e441512e4181cdead664b6a79
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 385548b4e205c754985eb041f0f03bc9,
       type: 2}
