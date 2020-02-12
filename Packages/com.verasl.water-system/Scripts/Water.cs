@@ -357,6 +357,7 @@ namespace WaterSystem
             t.position = Vector3.up * (transform.position.y + depthExtra);//center the camera on this water plane height
             t.up = Vector3.forward;//face the camera down
 
+            _depthCam.stereoTargetEye = StereoTargetEyeMask.None;
             _depthCam.enabled = true;
             _depthCam.orthographic = true;
             _depthCam.orthographicSize = 250;//hardcoded = 1k area - TODO
