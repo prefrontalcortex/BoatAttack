@@ -34,3 +34,4 @@ MonoBehaviour:
     passOperation: 2
     failOperation: 0
     zFailOperation: 0
+  m_ShadowTransparentReceive: 1

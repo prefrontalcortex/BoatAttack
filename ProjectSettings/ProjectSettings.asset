@@ -123,9 +123,9 @@ PlayerSettings:
   bundleVersion: 0.9
   preloadedAssets:
   - {fileID: 0}
-  - {fileID: 11400000, guid: 385548b4e205c754985eb041f0f03bc9, type: 2}
-  - {fileID: 1069860192033554553, guid: cab1691cdf9f5d24f981ed9837e0c8dd, type: 2}
   - {fileID: 0}
+  - {fileID: 5545797463484184228, guid: cab1691cdf9f5d24f981ed9837e0c8dd, type: 2}
+  - {fileID: 11400000, guid: 385548b4e205c754985eb041f0f03bc9, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -270,7 +270,7 @@ PlayerSettings:
   clonedFromGUID: 00000000000000000000000000000000
   templatePackageId: 
   templateDefaultScene: 
-  AndroidTargetArchitectures: 1
+  AndroidTargetArchitectures: 2
   AndroidSplashScreenScale: 2
   androidSplashScreen: {fileID: 2800000, guid: a2933378be5cc4b0bb3c3cc7f9c079de, type: 3}
   AndroidKeystoreName: 

@@ -35,6 +35,7 @@ MonoBehaviour:
     passOperation: 2
     failOperation: 0
     zFailOperation: 0
+  m_ShadowTransparentReceive: 1
 --- !u!114 &770174969183694509
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50,4 +51,4 @@ MonoBehaviour:
   settings:
     causticScale: 0.25
     debug: 0
-  causticShader: {fileID: 4800000, guid: 90939d2e4b62841d29c136c866715501, type: 3}
+  causticShader: {fileID: 4800000, guid: 5b9f77eab2192cd499c156d83f9bdfb6, type: 3}

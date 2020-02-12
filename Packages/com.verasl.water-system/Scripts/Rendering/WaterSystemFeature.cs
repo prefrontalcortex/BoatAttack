@@ -89,7 +89,7 @@ namespace WaterSystem
                 {
                     // Create mesh if needed
                     if (!m_mesh)
-                        m_mesh = GenerateCausticsMesh(1000f);
+                        m_mesh = GenerateCausticsMesh(10000f);
 
                     // Create the matrix to position the caustics mesh.
                     var position = cam.transform.position;
