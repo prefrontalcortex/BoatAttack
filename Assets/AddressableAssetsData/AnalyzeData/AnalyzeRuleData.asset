@@ -16,8 +16,388 @@ MonoBehaviour:
   - RuleName: Check Duplicate Bundle Dependencies
     Results: []
   - RuleName: Check Resources to Addressable Duplicate Dependencies
-    Results: []
+    Results:
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/Objects/UI/prefabs/Race_Canvas.prefab
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/Scripts/UI/RaceUI.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.ugui/Runtime/UI/Core/Layout/ContentSizeFitter.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.inputsystem/InputSystem/Plugins/UI/InputSystemUIInputModule.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/Textures/UI/RaceMap.png
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/Textures/UI/RaceEnv.png
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/Textures/UI/slicedDot.png
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.ugui/Runtime/UI/Core/Button.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.ugui/Runtime/UI/Core/Layout/VerticalLayoutGroup.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\AppManager.prefab:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Assets/Data/Volumes/LowQuality.asset
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Assets/Data/Volumes/BaseEffects.asset
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Assets/Data/Volumes/HighQuality.asset
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/Bloom.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.core/Runtime/Volume/VolumeProfile.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/MotionBlur.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/Tonemapping.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/LiftGammaGain.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/Vignette.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/DepthOfField.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/ChromaticAberration.cs
+      m_Severity: 2
+    - m_ResultName: Assets\Resources\VolumeHolder.asset:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/PaniniProjection.cs
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\TMP Settings.asset:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\TMP Settings.asset:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\TMP Settings.asset:ui_assets_all.bundle:Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\TMP Settings.asset:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\TMP Settings.asset:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat:ui_assets_all.bundle:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Drop Shadow.mat
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF.asset
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat:ui_assets_all.bundle:Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset:ui_assets_all.bundle:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset:ui_assets_all.bundle:Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat:ui_assets_all.bundle:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF.asset
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat:ui_assets_all.bundle:Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset:ui_assets_all.bundle:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+        SDF.asset
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset:ui_assets_all.bundle:Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+        SDF - Fallback.asset
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset:ui_assets_all.bundle:Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+      m_Severity: 2
+    - m_ResultName: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader:ui_assets_all.bundle:Assets/TextMesh
+        Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+      m_Severity: 2
   - RuleName: Check Scene to Addressable Duplicate Dependencies
-    Results: []
+    Results:
+    - m_ResultName: Assets/scenes/demo_Island.unity:utility_assets_all.bundle:Assets/Objects/misc/Main
+        Camera.prefab
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:utility_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/UniversalAdditionalCameraData.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:utility_assets_all.bundle:Assets/Scripts/Utility/DoNotDestroy.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:utility_assets_all.bundle:Packages/com.unity.cinemachine/Runtime/Behaviours/CinemachineBrain.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:utility_assets_all.bundle:Packages/com.unity.shadergraph/Editor/Resources/Shaders/FallbackError.shader
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Packages/com.unity.shadergraph/Editor/Resources/Shaders/FallbackError.shader
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:utility_assets_all.bundle:Packages/com.unity.render-pipelines.core/Runtime/Volume/Volume.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Assets/Textures/Water/WaterSplashes.tif
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Packages/com.unity.cinemachine/Runtime/Components/CinemachineComposer.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Packages/com.unity.cinemachine/Runtime/Behaviours/CinemachinePipeline.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Packages/com.verasl.water-system/Scripts/BuoyantObject.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Packages/com.unity.cinemachine/Runtime/Components/CinemachineTransposer.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Assets/Textures/Water/base.png
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Packages/com.unity.cinemachine/Runtime/Behaviours/CinemachineVirtualCamera.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Packages/com.verasl.water-system/Shaders/WaterFXShader.shader
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Assets/Materials/Splash.mat
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:boats_assets_all.bundle:Assets/Materials/_waterFoam.mat
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.core/Runtime/Volume/VolumeProfile.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/LiftGammaGain.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/ColorAdjustments.cs
+      m_Severity: 2
+    - m_ResultName: Assets/scenes/demo_Island.unity:volumeprofiles_assets_all.bundle:Packages/com.unity.render-pipelines.universal/Runtime/Overrides/PaniniProjection.cs
+      m_Severity: 2
   - RuleName: Build Bundle Layout
+    Results:
+    - m_ResultName: utility_assets_all.bundle:Explicit:Assets/Objects/misc/Main Camera.prefab
+      m_Severity: 0
+    - m_ResultName: utility_assets_all.bundle:Explicit:Assets/Objects/misc/checkpoint.prefab
+      m_Severity: 0
+    - m_ResultName: utility_assets_all.bundle:Explicit:Assets/Objects/misc/DefaultVolume.prefab
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Explicit:Assets/Objects/boats/Interceptor/_Interceptor.prefab
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Explicit:Assets/Objects/boats/renegade/_Renegade.prefab
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Explicit:Assets/Objects/UI/prefabs/Race_Canvas.prefab
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Explicit:Assets/Objects/UI/prefabs/LoadingScreen.prefab
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Explicit:Assets/Objects/UI/prefabs/PlayerMarker.prefab
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Explicit:Assets/Objects/UI/prefabs/RaceStats_Player.prefab
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Explicit:Assets/Objects/UI/prefabs/Race_Canvas_touch.prefab
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Explicit:Assets/Objects/UI/prefabs/PlayerMapMarker.prefab
+      m_Severity: 0
+    - m_ResultName: volumeprofiles_assets_all.bundle:Explicit:Assets/Data/Volumes/LowQuality.asset
+      m_Severity: 0
+    - m_ResultName: volumeprofiles_assets_all.bundle:Explicit:Assets/Data/Volumes/BaseEffects.asset
+      m_Severity: 0
+    - m_ResultName: volumeprofiles_assets_all.bundle:Explicit:Assets/Data/Volumes/MainMenu.asset
+      m_Severity: 0
+    - m_ResultName: volumeprofiles_assets_all.bundle:Explicit:Assets/Data/Volumes/HighQuality.asset
+      m_Severity: 0
+    - m_ResultName: utility_assets_all.bundle:Implicit:Assets/Objects/UI/meshes/checkpoint.fbx
+      m_Severity: 0
+    - m_ResultName: utility_assets_all.bundle:Implicit:Assets/Materials/Checkpoint.mat
+      m_Severity: 0
+    - m_ResultName: utility_assets_all.bundle:Implicit:Assets/Shaders/CheckpointShader.shadergraph
+      m_Severity: 0
+    - m_ResultName: utility_assets_all.bundle:Implicit:Packages/com.unity.shadergraph/Editor/Resources/Shaders/FallbackError.shader
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/Interceptor/Interceptor.fbx
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/Interceptor/Interceptor.fbx
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/Interceptor/Interceptor.fbx
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Shaders/UtilityGraphs/RaceBoats.ShaderGraph
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Audio/Boat/RaceBoat_HighSpeed.aiff
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Textures/Water/WaterSplashes.tif
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/Interceptor/AlbedoAO.tif
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/Interceptor/Normal.tif
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Textures/Water/base.png
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Packages/com.verasl.water-system/Shaders/WaterFXShader.shader
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Materials/Splash.mat
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Audio/Water/FlowingWater.wav
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/Interceptor/Interceptor.mat
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Materials/_waterFoam.mat
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/Interceptor/MSLL.tif
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Packages/com.unity.shadergraph/Editor/Resources/Shaders/FallbackError.shader
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/physics_materials/Slippery.physicMaterial
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/renegade/Normal.tif
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/renegade/MSLL.tif
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/renegade/Renegade.fbx
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/renegade/Renegade.fbx
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/renegade/AlbedoAO.tif
+      m_Severity: 0
+    - m_ResultName: boats_assets_all.bundle:Implicit:Assets/Objects/boats/renegade/Renegade.mat
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/RaceMap.png
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/RaceMap.png
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Drop Shadow.mat
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/RaceEnv.png
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/RaceEnv.png
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/slicedDot.png
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/slicedDot.png
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF.asset
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF.asset
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF.asset
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Shaders/UI/MainMenuPanel.mat
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Shaders/UI/UIPanelFade.shader
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/BG.png
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/BG.png
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/WhiteCircle.png
+      m_Severity: 0
+    - m_ResultName: ui_assets_all.bundle:Implicit:Assets/Textures/UI/WhiteCircle.png
+      m_Severity: 0
+  - RuleName: Check Sprite Atlas to Addressable Duplicate Dependencies
+    Results:
+    - m_ResultName: No issues found
+      m_Severity: 0
+  - RuleName: UnityEditor.AddressableAssets.Build.AnalyzeRules.AnalyzeRule
     Results: []
