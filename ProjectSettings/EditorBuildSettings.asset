@@ -15,5 +15,9 @@ EditorBuildSettings:
     path: Assets/scenes/demo_Island.unity
     guid: b3bf1324da98a41e796a5881dd3812eb
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 37da0c04a992788489c5a21409b8915b,
+      type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 3f119a19757f84dac85ee298b9dd65d3,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dd1ecb89a31bf7c4f898646c9973d7b3,
       type: 2}
