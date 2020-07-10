@@ -45,3 +45,5 @@ Assets/BuildReports
 SerializedBuildInfo
 SwitchIL2CPP*
 .vscode
+Assets/StreamingAssets
+Assets/StreamingAssets.meta

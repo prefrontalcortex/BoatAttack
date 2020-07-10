@@ -115,7 +115,7 @@ MonoBehaviour:
       y: 0
     onmiDir: 1
   _customWaves: 0
-  randomSeed: 41580
+  randomSeed: 20196
   _basicWaveSettings:
     numWaves: 8
     amplitude: 0.45
